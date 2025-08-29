@@ -1,0 +1,43 @@
+{
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "email": "Email",
+    "password": "Пароль",
+    "logout": "Выйти",
+    "profile": "Профиль",
+    "language": "Язык",
+    "theme": "Тема",
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "home": "Главная"
+  },
+  "register": {
+    "title": "Регистрация",
+    "confirmPassword": "Подтвердите пароль",
+    "submitButton": "Зарегистрироваться",
+    "loginLink": "Уже есть аккаунт? Войти",
+    "validation": {
+      "emailRequired": "Email обязателен",
+      "passwordMinLength": "Минимум 6 символов",
+      "passwordsNotMatch": "Пароли не совпадают"
+    }
+  },
+  "login": {
+    "title": "Вход",
+    "submitButton": "Войти",
+    "registerLink": "Нет аккаунта? Зарегистрироваться"
+  },
+  "profile": {
+    "title": "Мой профиль",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Электронная почта"
+  },
+  "toasts": {
+    "loginSuccess": "Вход выполнен",
+    "registerSuccess": "Регистрация успешна",
+    "logoutSuccess": "Вы вышли из аккаунта"
+  }
+}

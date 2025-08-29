@@ -1,0 +1,43 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "email": "Email",
+    "password": "Password",
+    "logout": "Logout",
+    "profile": "Profile",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "home": "Home"
+  },
+  "register": {
+    "title": "Sign Up",
+    "confirmPassword": "Confirm Password",
+    "submitButton": "Register",
+    "loginLink": "Already have an account? Sign In",
+    "validation": {
+      "emailRequired": "Email is required",
+      "passwordMinLength": "Minimum 6 characters",
+      "passwordsNotMatch": "Passwords don't match"
+    }
+  },
+  "login": {
+    "title": "Sign In",
+    "submitButton": "Login",
+    "registerLink": "Don't have an account? Sign Up"
+  },
+  "profile": {
+    "title": "My Profile",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address"
+  },
+  "toasts": {
+    "loginSuccess": "Logged in successfully",
+    "registerSuccess": "Registered successfully",
+    "logoutSuccess": "Logged out"
+  }
+}
